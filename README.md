@@ -5,4 +5,4 @@ R shiny dashboard connected to Google BigQuery database
 
 ## R shiny dashboard screen shot 
 
-![Dashboard_screenshot](C:\Users\zhaop\Documents\GitHub\Visualization-of-City-Traffic-Collision\Dashboard_screenshot.PNG)
+![Dashboard Screenshot](https://github.com/zhaopw0411/Visualization-of-City-Traffic-Collision/blob/master/Dashboard_screenshot.PNG)
